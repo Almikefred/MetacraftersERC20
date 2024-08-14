@@ -1,6 +1,6 @@
 FredToken Contract Summary
 
-Overview: MyToken is an ERC20 token contract implemented in Solidity. It provides basic functionalities such as transferring tokens, burning tokens, and minting new tokens.
+Overview: FredToken is an ERC20 token contract implemented in Solidity. It provides basic functionalities such as transferring tokens, burning tokens, and minting new tokens.
 
 Features:
 
