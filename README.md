@@ -22,21 +22,25 @@ To interact with the FredToken contract, you can use any Ethereum development en
 
 **Transfer Tokens:**  
 Users can transfer tokens to other addresses using the `transfer` function:
-```solidity
+```javascript
 transfer(address to, uint256 amount)
-
+```
 Burn Tokens:
 Users can burn their tokens to reduce the total supply using the burn function:
-
-
+```javascript
 burn(uint256 amount)
+```
+
 Mint Tokens:
 The contract owner can mint new tokens using the mint function:
-
+```javascript
 mint(address to, uint256 amount)
+```
 Authors
+
+
 Alfred ichael
-@metacraftersio
+
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
