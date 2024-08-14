@@ -39,7 +39,7 @@ mint(address to, uint256 amount)
 Authors
 
 
-Alfred ichael
+Alfred Michael
 
 
 License
